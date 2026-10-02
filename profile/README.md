@@ -8,7 +8,7 @@ IronShard is governed object storage built for AI agent workloads. Branch produc
 
 ## What you get
 
-| | |
+| Feature | What it does |
 |---|---|
 | **Instant production branching** | Snapshot production at any moment, at zero copy. Copy-on-write isolation gives each agent its own branch, with rollback to any point in time. |
 | **Zero-egress reads** | Read-heavy workloads stay free of egress fees by default. Latency-sensitive workloads can optimize for speed instead, configurable per credential. |
